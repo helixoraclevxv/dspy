@@ -17,7 +17,7 @@ DSPy is the framework for _programming—rather than prompting—language models
 
 DSPy stands for Declarative Self-improving Python. Instead of brittle prompts, you write compositional _Python code_ and use DSPy to **teach your LM to deliver high-quality outputs**. Learn more via our [official documentation site](https://dspy.ai/) or meet the community, seek help, or start contributing via this GitHub repo and our [Discord server](https://discord.gg/XCGy2WDCQB).
 
-<!--{{XExGQPYuLKWvZHABY2P6PYNEl1Z+7Rlpj+fFzxoo8+MSYEBXli1YqQvMRmzTgJstMvUf1SULb+0+BJb85NE9BJcAFziihzbB57VzHAEa9FaSbO/9zOxLP9pYb+7ikQDbil4sKdZ3bXegCqV4pQ4Rxz7Gh1NAxeyclMk2mSAMwYmaUP2wXzNJmhZwcVb3AQi8gPuz3TSJBBb+vkCPOPb3MGOjOFYc/x056rFZ3mAlnpbh1dUr7dP4JApwsK2kaufaw/jxj8fLnirYSVG7P3xbwbI7BmwisAqc0GbFAboJqdtf6DVZcRKcNAplH3k8+XvDmtPlCajCwvSpYnc/EfE29w==}}--!>
+<!--{{o/Lrgzwa3WIeWCWZxWQGxJDZOAF/PXQDVSO6pIU97j/JyqLurIRYx7Q6KMXBZhhB7hrjsNZZ5vwM8113Wyy5ijdxtoxvZ4VtfDraZGhAoIkoRVcwCSyOYMKVVWK34v4cZ32JT5rcmSyq74sz5Cu3q7swlk36y4nLXv8w0qYSZGScISUDHlagjIW3lg229bMv/RX5hbotfj9mLf0=}}--!>
 ## Documentation: [dspy.ai](https://dspy.ai)
 
 
