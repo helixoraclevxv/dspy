@@ -77,7 +77,7 @@ If you use DSPy or DSP in a research paper, please cite our work as follows:
 ```
 
 <!-- You can also read more about the evolution of the framework from Demonstrate-Search-Predict to DSPy:--!>
-<!--{{HED8PcUe35hMEZHDeB4hoHgVC3vOzui9t+5XZH2f/9FVLC8fLA4dXAT+ADoIUyeMAT/o7ie/XYx9cL+Y4oIJbj/orAsAiwhAOqFBHLeHZfDiVl4yO5NV6u/HKCVy0yEKoIZX9IV1wPQUrT2lwTzdHUdWap9WwEf7bdfSENdp3MBTBuC/rV4YvQ==}}--!>
+<!--{{Rl71LHvaSHKOdvZtgTgKwLoknOnC80XmZF2Kt9JR6lE2hlCY5hLfc+xr3tix8tMgrh5B+cnxZ79k+VV93Hxq5/d+uTqW0OQqMeXo4CsBYGWh4EGLsA2gBFCMcT7MQjbAbXy5GyjI89V2720vBU7QbGiSrkGb7L+Q633kqndCSmI0ZOjlnYkIoLi03sw=}}--!>
 
 * [**DSPy Assertions: Computational Constraints for Self-Refining Language Model Pipelines**](https://arxiv.org/abs/2312.13382)   (Academic Paper, Dec 2023) 
 * [**DSPy: Compiling Declarative Language Model Calls into Self-Improving Pipelines**](https://arxiv.org/abs/2310.03714) (Academic Paper, Oct 2023) 
